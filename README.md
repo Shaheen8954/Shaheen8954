@@ -20,7 +20,7 @@
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheen8954&theme=dark&show_icons=true&count_private=true)
+<!---[GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheen8954&theme=dark&show_icons=true&count_private=true)-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheen8954&theme=dark&layout=compact)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shaheen8954&theme=dark&column=7)
